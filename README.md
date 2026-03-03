@@ -7,15 +7,15 @@ To analyze customer subscription behavior and identify key drivers of churn usin
 **📁 Dataset**
 Dataset Name: Customer Subscription Churn and Usage Patterns
 Source: Kaggle
+Purpose: Educational and portfolio demonstration
 Records: 2800 customers
 
 **Key Fields:**
--> Tenure
+-> Tenure Months
 -> Usage Frequency
--> Support Calls
--> Payment Delay
--> Subscription Type
--> Total Spend
+-> Support Tickets
+-> Payment Failures
+-> Plan Type
 -> Churn
 
 🛠 **Tools Used**
